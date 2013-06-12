@@ -1,0 +1,17 @@
+
+.span1{
+	background-color: #eeeeee;
+}
+
+.DFKai-sb {
+    font-family: "DFKai-sb", "標楷體";
+}
+
+.a1{	
+	color:	white;
+}
+
+.a1:hover{	/*滑鼠移動到連結上時*/
+	text-decoration: none;	/*不顯示底線*/
+	color: white;
+}
