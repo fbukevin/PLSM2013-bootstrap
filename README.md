@@ -12,7 +12,7 @@ Initially, there are three files in this repository :
 
 
 ## Usage
-To make this file work, please prepare an HTTP server such as apache, ngix, IIS... etc.
+To make this file work, please prepare an HTTP server such as apache, nginx, IIS... etc.
 Then downlaod the above three files and put them into the web service folder.
 
 The HTTP server I develop on is apache, so I put these file into the folder "Appserv\www".
